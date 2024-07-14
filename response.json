@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "content": {
+                "parts": [
+                    {
+                        "text": "1. **Curbside recycling:** Place the plastic bottle in your designated recycling bin. Check with your local waste management company for specific guidelines.\n2. **Drop-off recycling:** Find a nearby recycling center that accepts plastic bottles. You can search online for recycling drop-off locations in your area.\n3. **Mail-back recycling:** Some companies offer mail-back recycling programs for plastic bottles. Check with the manufacturer or search online for these programs.\n\n**YouTube links:**\n\n* How to Recycle Plastic Bottles - https://www.youtube.com/watch?v=cF9ycAiE018\n* 5 Ways to Recycle Plastic Bottles - https://www.youtube.com/watch?v=kziyQ3fG178\n* How to Dispose of Plastic Bottles Properly - https://www.youtube.com/watch?v=ieKWF4860mY"
+                    }
+                ],
+                "role": "model"
+            },
+            "finish_reason": 1,
+            "index": 0,
+            "safety_ratings": [
+                {
+                    "category": 9,
+                    "probability": 1,
+                    "blocked": false
+                },
+                {
+                    "category": 8,
+                    "probability": 1,
+                    "blocked": false
+                },
+                {
+                    "category": 7,
+                    "probability": 1,
+                    "blocked": false
+                },
+                {
+                    "category": 10,
+                    "probability": 1,
+                    "blocked": false
+                }
+            ],
+            "token_count": 0,
+            "grounding_attributions": []
+        }
+    ],
+    "usage_metadata": {
+        "prompt_token_count": 99,
+        "candidates_token_count": 189,
+        "total_token_count": 288,
+        "cached_content_token_count": 0
+    }
+}
